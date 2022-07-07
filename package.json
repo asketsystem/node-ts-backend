@@ -1,0 +1,13 @@
+{
+  "name": "node-ts-backend",
+  "version": "1.0.0",
+  "description": "This is a node typescript backend boilerplate",
+  "main": "index.js",
+  "author": "Franck Asket",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
